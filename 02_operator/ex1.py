@@ -7,7 +7,7 @@ b = 3
 print(a + b)
 print(a - b)
 print(a * b)
-print(a / b)
+print(a / b)    # float형
 print(a % b)    # 나머지
 print(a // b)   # 몫
 print(a ** b)   # 거듭제곱
@@ -16,7 +16,6 @@ print(a ** b)   # 거듭제곱
 a = 0
 a += 4
 print(a)
-
 a-=2
 print(a)
 
