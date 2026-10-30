@@ -3,3 +3,4 @@
 *.pyc
 hello.py
 *.txt
+*.env
